@@ -9,17 +9,25 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "docx": "^9.8.1",
     "dotenv": "^18.0.4",
+    "exceljs": "^4.4.0",
+    "file-saver": "^2.0.5",
     "groq-sdk": "^1.6.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.8",
     "lucide-react": "^1.49.0",
     "next": "16.3.7",
     "pg": "^8.23.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
-    "recharts": "^3.10.1"
+    "recharts": "^3.10.1",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@types/file-saver": "^2.0.7",
     "@types/node": "^20",
     "@types/pg": "^8.23.1",
     "@types/react": "^19",
