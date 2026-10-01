@@ -9,13 +9,19 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "dotenv": "^18.0.4",
+    "groq-sdk": "^1.6.0",
+    "lucide-react": "^1.49.0",
     "next": "16.3.7",
+    "pg": "^8.23.0",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "recharts": "^3.10.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/pg": "^8.23.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
